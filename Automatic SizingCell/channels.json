@@ -1,0 +1,48 @@
+[
+  {
+ "name": "Eddard Stark",
+ "description": "Lord of Winterfell - Warden of the North - Hand of the King - Married to Catelyn (Tully) Stark",
+ "variable" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+ "name": "Robb Stark",
+ "description": "Son of Eddard and Catelyn Stark - Direwolf: Grey Wind"
+  },
+  {
+ "name": "Arya Stark",
+ "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Nymeria",
+ "variable" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+ "name": "Jon Snow",
+ "description": "Bastard son of Eddard Stark - Steweard in the Night's Watch - Direwolf: Ghost"
+  },
+  {
+ "name": "Tywin Lannister",
+ "description": "Lord of Casterly Rock - Warden of the West"
+  },
+  {
+ "name": "Tyrion Lannister",
+ "description": "Son of Tywin Lannister - The Imp",
+ "variable" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+ "name": "Jaime Lannister",
+ "description": "The Kingslayer - Knight of the Kingsgaurd - Son of Tywin Lannister",
+ "variable" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+ "name": "Queen Cersei (Lannister) Baratheon",
+ "description": "Married to King Robert Baratheon - Daughter of Tywin Lannister"
+  },
+  {
+ "name": "King Robert Baratheon",
+ "description": "The first of his name - Lord of the Seven Kingdoms"
+  },
+ {
+ "name": "Daenerys Targaryen",
+ "description": "Stormborn - Khaleesi of the Dothraki - The Unburnt - Mother of Dragons - Daughter of Aerys II Targaryen \"The Mad King\"",
+ "variable" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+ }
+  ]
+
